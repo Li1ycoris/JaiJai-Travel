@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "defaultDestination": "hualien",
+  "destinations": [
+    {
+      "id": "hualien",
+      "name": "花蓮",
+      "nameEn": "HUALIEN",
+      "status": "ready"
+    },
+    {
+      "id": "bangkok",
+      "name": "曼谷",
+      "nameEn": "BANGKOK",
+      "status": "planned"
+    }
+  ]
+}

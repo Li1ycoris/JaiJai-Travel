@@ -1,0 +1,66 @@
+{
+  "id": "hualien",
+  "name": "花蓮",
+  "nameEn": "HUALIEN",
+  "description": "沿著海岸與街區，找到想去的地方。",
+  "center": [
+    23.985,
+    121.617
+  ],
+  "zoom": 12,
+  "timezone": "Asia/Taipei",
+  "weather": {
+    "name": "花蓮市",
+    "coords": [
+      23.975,
+      121.607
+    ],
+    "note": "花蓮市區預報，山區與海岸天氣可能不同。",
+    "url": "https://www.cwa.gov.tw/V8/C/W/County/County.html?CID=10015",
+    "label": "氣象署預報"
+  },
+  "image": {
+    "src": "coast.jpg",
+    "alt": "七星潭藍色海岸與遠方山巒",
+    "caption": "七星潭 / QIXINGTAN",
+    "credit": {
+      "name": "Artemas Liu / Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Qixingtan_Beach,_Taiwan.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+    }
+  },
+  "packing": [
+    {
+      "title": "海邊與賞鯨",
+      "items": [
+        "薄風衣、防曬用品與水壺",
+        "包覆腳部的止滑鞋",
+        "出航與海況依業者通知"
+      ]
+    },
+    {
+      "title": "市區散步與看展",
+      "items": [
+        "舒適步行鞋與輕便衣物",
+        "薄外套因應冷氣",
+        "輕便雨衣、小毛巾與替換衣物"
+      ]
+    },
+    {
+      "title": "隨身用品",
+      "items": [
+        "替換衣物與襪子",
+        "衛生紙、垃圾袋與個人常用用品",
+        "依活動準備所需配備"
+      ]
+    }
+  ],
+  "collections": [
+    "attractions",
+    "activities",
+    "restaurants",
+    "stays",
+    "transport"
+  ]
+}

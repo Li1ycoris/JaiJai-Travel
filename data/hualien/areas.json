@@ -1,0 +1,32 @@
+[
+  {
+    "id": "city",
+    "code": "CT",
+    "name": "市中心與南濱"
+  },
+  {
+    "id": "station",
+    "code": "ST",
+    "name": "花蓮車站周邊"
+  },
+  {
+    "id": "meilun-harbor",
+    "code": "ML",
+    "name": "美崙與花蓮港"
+  },
+  {
+    "id": "qixingtan",
+    "code": "QT",
+    "name": "七星潭周邊"
+  },
+  {
+    "id": "xincheng",
+    "code": "XC",
+    "name": "新城與北郊"
+  },
+  {
+    "id": "shoufeng",
+    "code": "SF",
+    "name": "壽豐海岸"
+  }
+]

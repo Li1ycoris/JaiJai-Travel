@@ -1,0 +1,74 @@
+[
+  {
+    "id": "whale",
+    "areaId": "meilun-harbor",
+    "number": 1,
+    "name": "多羅滿賞鯨",
+    "sub": "花蓮港・海上生態導覽",
+    "price": "成人 $900",
+    "priceNote": "兒童 $700；此方案含市區接送",
+    "hours": "依預約航班",
+    "hoursNote": "航程約 1.5–2 小時",
+    "sessions": "",
+    "entry": "",
+    "address": "向日廣場｜花蓮市港濱路35-1號",
+    "feature": "與黑潮海洋文教基金會合作的海上生態解說；票款部分支持環境教育。",
+    "family": "搭船與接送資格依購買方案，兒童票種請向業者確認。",
+    "note": "自行報到需提前 45 分鐘；含接送訂單以前一天聯繫時間為準。航班與海況需業者確認，鯨豚為野生動物，無法保證目擊。",
+    "source": "https://www.turumoan.com.tw/tw/plan.php?id=384",
+    "source2": "",
+    "coords": [
+      24.0049,
+      121.638
+    ],
+    "parentId": "harbor"
+  },
+  {
+    "id": "mermaid",
+    "areaId": "shoufeng",
+    "number": 1,
+    "name": "美人魚實境秀",
+    "sub": "遠雄海洋公園・另購活動",
+    "price": "依日期與票種",
+    "priceNote": "單購劇場或套票；不含樂園門票",
+    "hours": "11:00、14:00",
+    "hoursNote": "一般場次；約 20 分鐘",
+    "sessions": "一般場次 11:00、14:00；特殊日期請查官方節目表。",
+    "entry": "開演前 20 分鐘進場；開演 5 分鐘後停止入場。",
+    "address": "遠雄海洋公園內；入口依現場指引",
+    "feature": "獨立購票的美人魚劇場表演；各套票內容與入園資格需分別確認。",
+    "family": "商城載明：3 歲以下或身高未滿 100 公分免費、不佔位。",
+    "note": "免費規則屬美人魚劇場，不能直接套用海洋公園門票或海豚活動。演出時間與場次調整以官方及現場公告為準。",
+    "source": "https://shop.farglory-oceanpark.com.tw/Session.aspx",
+    "source2": "",
+    "coords": [
+      23.9011,
+      121.6021
+    ],
+    "parentId": "ocean"
+  },
+  {
+    "id": "lele-exhibition",
+    "areaId": "city",
+    "number": 1,
+    "name": "樂樂的超時空跳跳門",
+    "sub": "花蓮文創園區第19棟・沉浸式互動特展",
+    "price": "免費入場",
+    "priceNote": "活動期間由親子天下贊助門票",
+    "hours": "10:00–17:00",
+    "hoursNote": "週二至週日；週一休館",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市中華路144號19棟",
+    "feature": "結合樂樂小宇宙與夢境現實的互動展，包含球池體驗。",
+    "family": "需穿著襪子入場；現場體驗規則依館方指引。",
+    "note": "展期：2026/08/01–2027/02/28。場館為花蓮流行音樂AI實驗基地；最後入場時間未公告，出發前查園區最新消息。",
+    "source": "https://hualien1913.nat.gov.tw/2026/07/8-1-2-28-%E6%9C%80%E6%96%B0%E7%89%B9%E5%B1%95%E3%80%90%F0%9F%90%B5%E6%A8%82%E6%A8%82%E7%9A%84%E8%B6%85%E6%99%82%E7%A9%BA%E8%B7%B3%E8%B7%B3%E9%96%80%F0%9F%9A%AA%E2%9C%A8%E3%80%91/",
+    "source2": "",
+    "coords": [
+      23.9749,
+      121.6047
+    ],
+    "parentId": "creative"
+  }
+]
