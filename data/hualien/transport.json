@@ -1,0 +1,94 @@
+[
+  {
+    "id": "station",
+    "areaId": "station",
+    "number": 1,
+    "name": "花蓮站與行李房",
+    "sub": "花蓮市・鐵路／人工寄物",
+    "price": "寄物費用另詢",
+    "priceNote": "依件數與尺寸",
+    "hours": "08:00–20:00",
+    "hoursNote": "行李房服務時段",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市國聯一路100號",
+    "feature": "臺鐵官網列有行李房與行李暫存服務，可作大型行李寄放方案。",
+    "family": "大件行李需預留出站、寄放和取回時間。",
+    "note": "行李房電話 03-8322037；當日櫃位容量與收費請詢問現場。列車班次請查臺鐵時刻表。",
+    "source": "https://www.railway.gov.tw/tra-tip-web/tip/tip00H/tipH41/viewStaInfo/7000",
+    "source2": "",
+    "coords": [
+      23.9933,
+      121.6016
+    ]
+  },
+  {
+    "id": "transfer",
+    "areaId": "station",
+    "number": 2,
+    "name": "花蓮轉運站",
+    "sub": "站前・公車轉乘",
+    "price": "依路線票價",
+    "priceNote": "最新票價查官方",
+    "hours": "依路線時刻表",
+    "hoursNote": "最新班表請查公告",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市國聯一路花蓮轉運站",
+    "feature": "站前轉乘公車的交通節點，可查台灣好行路線與班次。",
+    "family": "帶推車需確認上下車與收折方式；班次與推車收折規則依路線公告。",
+    "note": "各景點是否停靠、行車方向與回程末班車，請以路線當期公告查詢。",
+    "source": "https://www.taiwantrip.com.tw/",
+    "source2": "",
+    "coords": [
+      23.9909,
+      121.6005
+    ]
+  },
+  {
+    "id": "harbor",
+    "areaId": "meilun-harbor",
+    "number": 1,
+    "name": "向日廣場",
+    "sub": "花蓮港・賞鯨報到與集合",
+    "price": "依賞鯨方案",
+    "priceNote": "多羅滿含接送方案另見活動",
+    "hours": "依預約航班",
+    "hoursNote": "自行到場提前 45 分鐘",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市港濱路35-1號",
+    "feature": "多羅滿官方指定的報到地點，可領票、聽行前解說後登船。",
+    "family": "含接送的上車地點與時間由業者聯繫確認。",
+    "note": "概略標記為向日廣場，請找到訂購業者的報到櫃檯。接送時間與集合地點依業者通知。",
+    "source": "https://www.turumoan.com.tw/tw/plan.php?id=384",
+    "source2": "",
+    "coords": [
+      24.0051,
+      121.6384
+    ]
+  },
+  {
+    "id": "locker",
+    "areaId": "shoufeng",
+    "number": 1,
+    "name": "海洋公園寄物",
+    "sub": "壽豐・大型行李備案",
+    "price": "收費待確認",
+    "priceNote": "尺寸與空位需先詢問",
+    "hours": "依園區服務",
+    "hoursNote": "09:30–17:00 園區開放",
+    "sessions": "",
+    "entry": "",
+    "address": "遠雄海洋公園入口服務區；位置請詢問",
+    "feature": "攜帶大型行李前，請先詢問園區寄物方式、櫃體尺寸及服務位置。",
+    "family": "置物櫃空位與尺寸須向園區確認。",
+    "note": "櫃體尺寸、費率及人工寄物規則待官方確認。請先致電 03-8123100 確認；花蓮站行李房可作替代方案。",
+    "source": "https://www.farglory-oceanpark.com.tw/opening",
+    "source2": "",
+    "coords": [
+      23.8999,
+      121.6026
+    ]
+  }
+]

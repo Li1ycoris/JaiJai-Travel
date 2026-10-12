@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>JaiJai Travel｜隨手旅行</title><meta name="description" content="依目的地與區域探索景點、活動、餐廳，搭配旅遊資訊與互動地圖。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23174de1'/%3E%3Ctext x='7' y='24' fill='white' font-size='23'%3EJ%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css"><link rel="stylesheet" href="vendor/leaflet.css">
+<script defer src="vendor/leaflet.js"></script><script defer src="data.js"></script><script type="module" src="app.js"></script>
+</head>
+<body>
+<header class="topbar"><div class="brand-group"><button id="menu-toggle" class="menu-toggle" aria-label="開啟目的地選單" aria-controls="destination-drawer" aria-expanded="false"><span></span><span></span><span></span></button><a class="brand" href="./"><span class="brand-icon">J</span>JaiJai Travel<span class="brand-sub">隨手旅行</span></a></div><span class="edition" id="current-destination">花蓮</span></header>
+<dialog id="destination-drawer" aria-labelledby="drawer-title"><div class="drawer-heading"><div><p class="eyebrow">EXPLORE</p><h2 id="drawer-title">想去哪裡？</h2></div><button id="menu-close" aria-label="關閉目的地選單">×</button></div><p class="drawer-note">從一座城市，開始一段旅行。</p><nav id="destination-list" aria-label="目的地"></nav><p class="drawer-foot">JaiJai Travel · 隨手旅行</p></dialog>
+<main id="main-content">
+<section id="weather-section" class="weather" aria-labelledby="weather-title"><div class="weather-heading"><h2 id="weather-title"></h2><div class="weather-links"><button id="weather-retry" type="button">重新整理</button><a id="weather-official" target="_blank" rel="noopener">當地預報 ↗</a></div></div><div id="weather-content" role="status" aria-live="polite"></div><p class="weather-source"><span id="weather-note"></span> 資料：<a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a>，<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>。</p></section>
+<section class="intro"><div><p class="eyebrow" id="destination-eyebrow"></p><h1 id="destination-title" tabindex="-1"></h1><p id="destination-description"></p><div class="intro-tags"><span id="destination-count"></span><span>依區域探索・隨手看地圖</span></div></div><figure id="destination-photo"><img id="coast-photo" width="1280" height="853" alt=""><figcaption id="photo-caption"></figcaption></figure></section>
+<section id="ready-content"><section class="area-section" aria-labelledby="area-title"><div class="area-heading"><h2 id="area-title">探索區域</h2><span id="area-summary">先選區域，再看想去的地方</span></div><nav id="area-list" aria-label="區域"></nav></section>
+<nav class="category-nav" aria-label="資訊分類"><button data-category="遊"><span>P</span>景點 <small></small></button><button data-category="活動"><span>A</span>活動 <small></small></button><button data-category="食"><span>F</span>餐廳 <small></small></button><button data-category="住"><span>S</span>住宿 <small></small></button><button data-category="行"><span>T</span>交通 <small></small></button><button data-category="衣"><span>✓</span>攜帶用品</button></nav>
+<div class="workspace"><section class="information" aria-labelledby="section-title"><div class="section-heading"><div><p class="eyebrow" id="section-label"></p><h2 id="section-title"></h2></div><span class="result-count" id="result-count" aria-live="polite"></span></div><p class="section-note" id="section-note"></p><div id="records"></div><div class="data-note"><span class="note-icon">i</span><p>費用、營業時間與活動場次以店家最新公告為準。展開各列可查看資料來源。</p></div></section>
+<aside class="map-column" aria-label="地點地圖"><div class="map-heading"><h2>看看位置</h2><button id="reset-map">顯示目前範圍</button></div><div id="map" role="region" aria-label="可縮放的互動地圖"></div><div id="map-fallback" hidden>地圖暫時無法載入，可使用各筆資料的 Google 地圖連結。</div><div class="map-legend"><span class="legend-dot"></span><span id="map-category"></span><span>點選標記查看地點</span></div><p class="map-note">P 景點 · A 活動 · F 餐廳 · S 住宿 · T 交通<br>標記為地點位置；入口與報到處依官方指引。</p></aside></div></section>
+<section id="planned-content" class="planned-content" hidden><span class="planned-icon">↗</span><h2>這裡的故事，準備中。</h2><p>目前還沒有收錄地點。先去其他目的地看看吧。</p><button id="choose-destination">選擇目的地</button></section>
+<footer><span>JaiJai Travel <span class="footer-sub">隨手旅行</span></span><p>公開旅遊資訊，按區域整理。</p><details id="photo-credit"><summary>照片來源</summary><p id="photo-credit-content"></p></details></footer>
+</main></body></html>

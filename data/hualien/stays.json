@@ -1,0 +1,71 @@
+[
+  {
+    "id": "here",
+    "areaId": "station",
+    "number": 1,
+    "name": "23Here 親子民宿",
+    "sub": "站前・溜滑梯主題房",
+    "price": "房價依房型／方案",
+    "priceNote": "實際房價請詢住宿業者",
+    "hours": "入住／退房時間待詢",
+    "hoursNote": "寄物服務需向民宿確認",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市國聯五路23號",
+    "feature": "官網列有一樓電動車專區、二樓遊戲室，房內有溜滑梯；特定房型有獨立泳池。",
+    "family": "泳池、溜滑梯與房內配備依實際房型。",
+    "note": "官網估步行到車站約 10 分鐘；提前寄物與入住規則請向民宿確認。",
+    "source": "https://23here.970bnb.net/about.php",
+    "source2": "https://page.line.me/974vdzpg",
+    "coords": [
+      23.9922,
+      121.605
+    ]
+  },
+  {
+    "id": "lakeshore",
+    "areaId": "meilun-harbor",
+    "number": 1,
+    "name": "煙波大飯店花蓮館",
+    "sub": "美崙・分齡遊戲空間",
+    "price": "房價依房型／方案",
+    "priceNote": "空房與方案待確認",
+    "hours": "入住／退房時間待詢",
+    "hoursNote": "遊戲室時段向飯店確認",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮市中美路142號",
+    "feature": "官網介紹童樂天地，規劃幼兒與較大孩子的分齡遊戲空間。",
+    "family": "可比較室內遊戲空間；球池、賽車與當期設施未確認，不預設有。",
+    "note": "位於花蓮市區；前往花蓮站需安排交通。",
+    "source": "https://hualien.lakeshore.com.tw/amenities/gaming-room/gaming-room/",
+    "source2": "https://hualien.lakeshore.com.tw/theme-tour/parent-child-fun-strategy/",
+    "coords": [
+      23.9941,
+      121.6234
+    ]
+  },
+  {
+    "id": "farglory",
+    "areaId": "shoufeng",
+    "number": 1,
+    "name": "遠雄悅來大飯店",
+    "sub": "壽豐・度假型住宿",
+    "price": "房價依房型／方案",
+    "priceNote": "接駁與套票另確認",
+    "hours": "入住／退房時間待詢",
+    "hoursNote": "設施依飯店公告",
+    "sessions": "",
+    "entry": "",
+    "address": "花蓮縣壽豐鄉鹽寮村山嶺18號",
+    "feature": "有休閒設施與家庭房型，可比較海洋公園周邊的度假型住宿。",
+    "family": "當期親子遊具、使用資格與年齡限制請向飯店確認。",
+    "note": "官網列海洋公園專車接駁路程約 4.5 公里、12 分鐘；預約與班次需確認。",
+    "source": "https://www.farglory-hotel.com.tw/",
+    "source2": "",
+    "coords": [
+      23.9067,
+      121.5993
+    ]
+  }
+]
